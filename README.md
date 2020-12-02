@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Shrivatsa's github stats](https://github-readme-stats.vercel.app/api/?username=shrivatsaBhatP&show_icons=true)
+![Shrivatsa's github stats](https://github-readme-stats.vercel.app/api/?username=shrivatsaBhatP&custom_title=Shrivatsa's%20Github%20Stats&show_icons=true&layout=default&hide_border=true&text_color=3E4034&title_color=262621&icon_color=A5A69C&hide=contribs)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrivatsaBhatP&layout=compact&langs_count=5&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrivatsaBhatP&layout=compact&langs_count=5&hide_border=true&text_color=3E4034&title_color=262621&icon_color=A5A69C)
 
 <!--
 **shrivatsaBhatP/shrivatsaBhatP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
